@@ -2,7 +2,7 @@
     {
         "opinion_id": "17349010",
         "author": "KamilZ1",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "The casing resembling a small printer houses a multifunction device with printing, scanning and copying functions. And its small size and compactness are the biggest advantages of the HP DeskJet 3762. The device does not take up much space and is therefore ideal for a home where we do not have a separate office room, but only a work corner. Another advantage is certainly the price. In this price range, it is difficult to find a device with such parameters and such efficiency. The quality of prints is also positively surprising, although it must be honestly admitted that it is not a speed demon. Another advantage is wireless printing, which is a very practical solution in itself, and works flawlessly in the HP DeskJet 3762. The quality of workmanship is okay, the design is a matter of taste, but it would be nice if there was a choice of colors - turquoise will not appeal to everyone. To sum up, I recommend the device to everyone for home use.",
         "pros": [
@@ -19,7 +19,7 @@
     {
         "opinion_id": "15226686",
         "author": "Paulina",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.8,
         "content": "The printer is tiny, but it works like crazy.\nThe plastic is obviously thin. Sometimes you have to gently \"tug\" the pocket to hide it, but for the price it really works great and the look is lovely.\nIt must be admitted that if someone prints a lot, it may be too weak, but when printing several sheets of paper a day it will work very well.",
         "pros": [
@@ -46,9 +46,9 @@
     {
         "opinion_id": "15320141",
         "author": "a...a",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
-        "content": "The printer is small and neat. The installation for Mac is very efficient. It works without any problems, the printout is very good and clear. The scanning program is automatically installed on the computer and the scan quality is very good. A great printer for your home office. I recommend.",
+        "content": "The printer is small and neat. The installation for Mac is very efficient. It works without any problems, the printout is very good and clear. The scanning program is automatically installed on the computer and the scan quality is very good. A great printer for a home office. I recommend.",
         "pros": [],
         "cons": [],
         "helpful": 4,
@@ -59,7 +59,7 @@
     {
         "opinion_id": "15010317",
         "author": "r...i",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Super small equipment. A bit of fiddling with the setup, but everything works perfectly.",
         "pros": [
@@ -97,7 +97,7 @@
     {
         "opinion_id": "15674997",
         "author": "a...a",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Small, great for printing. It fits perfectly on the shelf. Printing from your phone is simply fantastic!",
         "pros": [
@@ -115,7 +115,7 @@
     {
         "opinion_id": "17309351",
         "author": "e...6",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.8,
         "content": "Very cool and tiny equipment. Prints, scans and copies quickly. It doesn't take up much space on your desk. I recommend",
         "pros": [
@@ -133,7 +133,7 @@
     {
         "opinion_id": "16275852",
         "author": "k...0",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "It takes up little space, is pretty and fulfills its function for a high school student. I recommend",
         "pros": [
@@ -151,7 +151,7 @@
     {
         "opinion_id": "15827529",
         "author": "a...5",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "It takes up little space, is aesthetically made, functions as described, without any comments.",
         "pros": [],
@@ -164,7 +164,7 @@
     {
         "opinion_id": "18252442",
         "author": "j...n",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.8,
         "content": "I had difficulty starting it, very poor instructions on how to do it.",
         "pros": [],
@@ -177,7 +177,7 @@
     {
         "opinion_id": "16105334",
         "author": "arek",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Hello, this is a great firecracker printer for home use",
         "pros": [],
@@ -190,7 +190,7 @@
     {
         "opinion_id": "15962430",
         "author": "m...s",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.6,
         "content": "The printer is nice because it is small and functional, but the ink was enough for several colored sheets of paper, and the inks are not the cheapest, so that's a minus.",
         "pros": [
@@ -209,7 +209,7 @@
     {
         "opinion_id": "16427947",
         "author": "a...3",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Neat printer, easy to install, great for me.",
         "pros": [],
@@ -222,7 +222,7 @@
     {
         "opinion_id": "15331120",
         "author": "u...a",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.6,
         "content": "the printer is OK, I turned it on according to the instructions, even though we are not friends with technology, you can be sure of the results with such a partner, thanks",
         "pros": [
@@ -239,7 +239,7 @@
     {
         "opinion_id": "17309672",
         "author": "marekpl82",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "A small printer that does its job at home",
         "pros": [
@@ -257,7 +257,7 @@
     {
         "opinion_id": "15640705",
         "author": "m...4",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.9,
         "content": "easy to use, small and neat",
         "pros": [
@@ -276,7 +276,7 @@
     {
         "opinion_id": "15359504",
         "author": "d...k",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Small, light and handy. Easy to use",
         "pros": [],
@@ -289,7 +289,7 @@
     {
         "opinion_id": "17205552",
         "author": "k...6",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "The product fully fulfills its functions",
         "pros": [
@@ -306,7 +306,7 @@
     {
         "opinion_id": "15813582",
         "author": "s...0",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Perfect for everyday use at home",
         "pros": [
@@ -344,9 +344,40 @@
         "purchase_date": "2022-01-29 14:01:35"
     },
     {
+        "opinion_id": "18628667",
+        "author": "d...n",
+        "recommendation": null,
+        "stars": 1.0,
+        "content": "Super small, portable and quiet",
+        "pros": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-07 09:43:46",
+        "purchase_date": "2024-04-29 12:20:29"
+    },
+    {
+        "opinion_id": "16448664",
+        "author": "m...k",
+        "recommendation": null,
+        "stars": 0.1,
+        "content": "The printer I wanted to buy. But it's not working. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
+        "pros": [],
+        "cons": [],
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-08-23 22:33:38",
+        "purchase_date": "2022-08-05 12:30:51"
+    },
+    {
         "opinion_id": "17202270",
         "author": "j...i",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.7,
         "content": "product for personal use approx",
         "pros": [
@@ -362,22 +393,9 @@
         "purchase_date": "2022-04-03 18:48:52"
     },
     {
-        "opinion_id": "16448664",
-        "author": "m...k",
-        "authors_recommendation": null,
-        "stars": 0.1,
-        "content": "The printer I wanted to buy. But it's not working. Once the toners are inserted, it cannot be returned. I have to take it in for repairs. Shame on Media Mart!!!",
-        "pros": [],
-        "cons": [],
-        "helpful": 0,
-        "unhelpful": 0,
-        "publish_date": "2022-08-23 22:33:38",
-        "purchase_date": "2022-08-05 12:30:51"
-    },
-    {
         "opinion_id": "16664177",
         "author": "w...i",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.6,
         "content": "the power plug falls out, you have to stick it with tape, the paper support doesn't want to stay in place either, it's shoddy",
         "pros": [
@@ -395,7 +413,7 @@
     {
         "opinion_id": "17161462",
         "author": "g...1",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "It's ok for this money.",
         "pros": [],
@@ -408,7 +426,7 @@
     {
         "opinion_id": "17203172",
         "author": "a...a",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.8,
         "content": "Neat, easy to use",
         "pros": [],
@@ -421,7 +439,7 @@
     {
         "opinion_id": "15700898",
         "author": "z...5",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Everything works smoothly",
         "pros": [
@@ -439,7 +457,7 @@
     {
         "opinion_id": "15565914",
         "author": "l...o",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Good and compact equipment",
         "pros": [],
@@ -452,7 +470,7 @@
     {
         "opinion_id": "15960283",
         "author": "a...9",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Works well",
         "pros": [],
@@ -465,7 +483,7 @@
     {
         "opinion_id": "15662625",
         "author": "w...a",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 0.9,
         "content": "A clever little beast",
         "pros": [
@@ -483,7 +501,7 @@
     {
         "opinion_id": "18488747",
         "author": "w...3",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "very nice purchase",
         "pros": [],
@@ -496,7 +514,7 @@
     {
         "opinion_id": "18336321",
         "author": "p...k",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Everything's fine",
         "pros": [],
@@ -509,7 +527,7 @@
     {
         "opinion_id": "15775232",
         "author": "m...k",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "I recommend 5/5",
         "pros": [],
@@ -522,7 +540,7 @@
     {
         "opinion_id": "15574260",
         "author": "w...8",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "very good",
         "pros": [
@@ -537,7 +555,7 @@
     {
         "opinion_id": "17724178",
         "author": "a...k",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "I recommend",
         "pros": [
@@ -555,7 +573,7 @@
     {
         "opinion_id": "17309593",
         "author": "j...5",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "I recommend",
         "pros": [],
@@ -568,7 +586,7 @@
     {
         "opinion_id": "16505384",
         "author": "d...3",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Comfortable",
         "pros": [
@@ -584,7 +602,7 @@
     {
         "opinion_id": "16525722",
         "author": "m...h",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "cool",
         "pros": [],
@@ -597,7 +615,7 @@
     {
         "opinion_id": "17454395",
         "author": "a...o",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": null,
         "pros": [],
@@ -610,7 +628,7 @@
     {
         "opinion_id": "16761205",
         "author": "t...n",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": null,
         "pros": [],
@@ -623,7 +641,7 @@
     {
         "opinion_id": "15862317",
         "author": "d...a",
-        "authors_recommendation": true,
+        "recommendation": null,
         "stars": 1.0,
         "content": "Approx",
         "pros": [],
@@ -634,27 +652,9 @@
         "purchase_date": "2022-03-12 16:34:40"
     },
     {
-        "opinion_id": "15153414",
-        "author": "w...8",
-        "authors_recommendation": true,
-        "stars": 1.0,
-        "content": "Git",
-        "pros": [],
-        "cons": [
-            "quality of prints",
-            "relatively cheap",
-            "print speed",
-            "efficiency"
-        ],
-        "helpful": 0,
-        "unhelpful": 5,
-        "publish_date": "2021-11-02 11:30:28",
-        "purchase_date": "2021-10-27 17:16:31"
-    },
-    {
         "opinion_id": "15128430",
         "author": "1ewka1212",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.3,
         "content": "I don't recommend it, I just ran out of color ink and I can't print anything. It turns out that I always have to have both mascaras. Moreover, for larger printing, there is no point in buying this printer because you can go bankrupt on inks. One original XL ink, i.e. for 300 pages (apparently, I don't print that much with one ink) costs PLN 110. I buy 4 mascaras a month. My previous printer used toner and I bought it for PLN 30 and it lasted a long time. I splurged on a small printer and it's not worth it. It is slow, noisy and extremely expensive to use. I have to sell it and buy another one for toner.",
         "pros": [
@@ -671,11 +671,29 @@
         "purchase_date": null
     },
     {
+        "opinion_id": "15153414",
+        "author": "w...8",
+        "recommendation": null,
+        "stars": 1.0,
+        "content": "Git",
+        "pros": [],
+        "cons": [
+            "quality of prints",
+            "relatively cheap",
+            "print speed",
+            "efficiency"
+        ],
+        "helpful": 0,
+        "unhelpful": 5,
+        "publish_date": "2021-11-02 11:30:28",
+        "purchase_date": "2021-10-27 17:16:31"
+    },
+    {
         "opinion_id": "14878601",
         "author": "Użytkownik Ceneo",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.6,
-        "content": "If you care about printing speed because you print several or a dozen sheets at once, I do not recommend it. In addition, the printer is very noisy when feeding a sheet of paper and when returning a printed sheet.",
+        "content": "If you care about printing speed because you print several or a dozen sheets of paper at once, I do not recommend it. In addition, the printer is very noisy when feeding a sheet of paper and when returning a printed sheet.",
         "pros": [
             "print quality"
         ],
@@ -691,7 +709,7 @@
     {
         "opinion_id": "17729890",
         "author": "Użytkownik Ceneo",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.6,
         "content": "The product is ok. But the suppliers hide (?) an important detail. Wifi only supports 2.4G frequency, while 5G frequency is becoming more and more popular. And that's not okay 👿",
         "pros": [],
@@ -704,7 +722,7 @@
     {
         "opinion_id": "16801557",
         "author": "e...i",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.2,
         "content": "The HP printer failed after a month",
         "pros": [],
@@ -717,7 +735,7 @@
     {
         "opinion_id": "15540121",
         "author": "Użytkownik Ceneo",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.1,
         "content": "The quality of workmanship is poor, in fact it is poor, it is impossible to configure it from the very beginning of the purchase, when it starts printing via WiFi it keeps disconnecting, in order to install it you have to go through a difficult registration process, press a lot of buttons and there is no guarantee that it will be successful, it doesn't find it through the cable or it fits properly. It consumes ink quickly, the first of which I used to print a million instructions. I honestly do not recommend this purchase.",
         "pros": [
@@ -736,7 +754,7 @@
     {
         "opinion_id": "15364387",
         "author": "Użytkownik Ceneo",
-        "authors_recommendation": null,
+        "recommendation": null,
         "stars": 0.2,
         "content": "It may seem small, but for printing you have to unfold the paper feeder and tray, so it takes up a standard surface. I use it to print over WiFi from several devices - regular problems with connection and printing. For unknown reasons, it stops printing and each time I struggle with it half the evening to restore the connection. I honestly advise against it",
         "pros": [],
